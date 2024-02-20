@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+:root{
+    --cor-de-fundo: #c83145;
+    --verde: #f81c07;
+    --branco: #f7f9f9;
+    --botao-ativo:#8bfa04;
+    --botao-intivo: #050505;
+    --texto-fundo: #f7f9f9;
+}
